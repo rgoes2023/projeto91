@@ -1,0 +1,37 @@
+body{
+    background-color: #AA4465;
+}
+
+#logar{
+    background-color: darkcyan;
+    width: 150px;
+    height: 40px;
+    color:white;
+    border-radius: 40%;
+    font-size:30px;
+}
+#div1{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#div2{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#output
+{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
